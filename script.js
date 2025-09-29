@@ -1,6 +1,6 @@
 const songs = [
-  { title: "Canción 1", src: "music/song1.mp3" },
-  { title: "Canción 2", src: "music/song2.mp3" },
+  { title: "Canción 1", src: "music/song1.m4a" },
+  { title: "Canción 2", src: "music/song2.m4a" },
   { title: "Canción 3", src: "music/song3.mp3" }
 ];
 
