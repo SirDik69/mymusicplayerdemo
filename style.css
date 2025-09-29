@@ -1,0 +1,41 @@
+body {
+  font-family: sans-serif;
+  background: #111;
+  color: #fff;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.player {
+  padding: 20px;
+  max-width: 400px;
+  margin: auto;
+}
+
+.controls button {
+  font-size: 20px;
+  margin: 10px;
+  padding: 10px;
+  background: #222;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.controls button:hover {
+  background: #444;
+}
+
+.playlist {
+  margin-top: 20px;
+}
+
+.playlist div {
+  padding: 8px;
+  cursor: pointer;
+}
+
+.playlist div:hover {
+  background: #333;
+}
